@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Preventative Maintenance Tasks" max_length="40" name="x_247336_preventat_preventative_maintenance_tasks" type="collection">
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Maintenance Category" mandatory="true" max_length="40" name="pmt_category" type="string">
+            <choice>
+                <element label="Data Center" sequence="0" value=" Data Center"/>
+                <element label="Email  Services" sequence="1" value="  Email  Services"/>
+                <element label="IT  Operations" sequence="2" value="  IT  Operations"/>
+                <element label="Patch Management" sequence="3" value="  Patch Management"/>
+                <element label="Payroll" sequence="4" value="  Payroll"/>
+                <element label="Security" sequence="5" value="  Security"/>
+                <element label="Systems  Management" sequence="6" value="  Systems  Management"/>
+                <element label="Telecom  Support" sequence="7" value="  Telecom  Support"/>
+                <element label="Workstation  Management" sequence="8" value="  Workstation  Management"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Task Type" max_length="40" name="pmt_task_type" type="string">
+            <choice>
+                <element label="Information Security" sequence="0" value="Information Security"/>
+                <element label="Operations" sequence="1" value="Operations"/>
+            </choice>
+        </element>
+    </element>
+</database>

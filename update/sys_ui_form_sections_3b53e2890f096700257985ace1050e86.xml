@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="3b53e2890f096700257985ace1050e86" sys_domain="global" table="x_247336_preventat_preventative_maintenance_tasks" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 02:06:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7f53e2890f096700257985ace1050e88</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_247336_preventat_preventative_maintenance_tasks" name="x_247336_preventat_preventative_maintenance_tasks" sys_domain="global" view="Default view">3b53e2890f096700257985ace1050e86</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_247336_preventat_preventative_maintenance_tasks" sys_domain="global" view="Default view">fe3d72130f78a300257985ace1050e5a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 02:06:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 02:06:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b53e2890f096700257985ace1050e89</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_247336_preventat_preventative_maintenance_tasks" name="x_247336_preventat_preventative_maintenance_tasks" sys_domain="global" view="Default view">3b53e2890f096700257985ace1050e86</sys_ui_form>
+            <sys_ui_section caption="New Section" display_value="New Section" name="x_247336_preventat_preventative_maintenance_tasks" sys_domain="global" view="Default view">fb53e2890f096700257985ace1050e85</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 02:06:38</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_247336_preventat_preventative_maintenance_tasks</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 02:06:38</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3b53e2890f096700257985ace1050e86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_247336_preventat_preventative_maintenance_tasks</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Preventative Maintenance" source="x_247336_preventat">7e6be6d30f34a300257985ace1050e1d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Preventative Maintenance">7e6be6d30f34a300257985ace1050e1d</sys_scope>
+            <sys_update_name>sys_ui_form_sections_3b53e2890f096700257985ace1050e86</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 02:06:38</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

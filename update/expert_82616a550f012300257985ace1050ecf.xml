@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="expert">
+    <expert action="INSERT_OR_UPDATE">
+        <banner_type>generated</banner_type>
+        <basic_panel_flow>false</basic_panel_flow>
+        <first_panel display_value="Define the Maintenance Task">69526e550f012300257985ace1050ec3</first_panel>
+        <name>Preventative Maintenance</name>
+        <redirect/>
+        <roles/>
+        <sys_class_name>expert</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-08 20:36:49</sys_created_on>
+        <sys_id>82616a550f012300257985ace1050ecf</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Preventative Maintenance</sys_name>
+        <sys_package display_value="Preventative Maintenance" source="x_247336_preventat">7e6be6d30f34a300257985ace1050e1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Preventative Maintenance">7e6be6d30f34a300257985ace1050e1d</sys_scope>
+        <sys_update_name>expert_82616a550f012300257985ace1050ecf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-08 20:41:21</sys_updated_on>
+    </expert>
+</record_update>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="pmt_category" label="Maintenance Category" language="en" table="x_247336_preventat_preventative_maintenance_tasks">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>pmt_category</element>
+            <help/>
+            <hint/>
+            <label>Maintenance Category</label>
+            <language>en</language>
+            <name>x_247336_preventat_preventative_maintenance_tasks</name>
+            <plural>Maintenance Categories</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 02:06:38</sys_created_on>
+            <sys_id>335326890f096700257985ace1050ee2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Maintenance Category</sys_name>
+            <sys_package display_value="Preventative Maintenance" source="x_247336_preventat">7e6be6d30f34a300257985ace1050e1d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Preventative Maintenance">7e6be6d30f34a300257985ace1050e1d</sys_scope>
+            <sys_update_name>sys_documentation_x_247336_preventat_preventative_maintenance_tasks_pmt_category_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 02:06:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

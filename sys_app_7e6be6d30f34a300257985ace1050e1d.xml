@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <enforce_license>log</enforce_license>
+        <js_level>helsinki_es5</js_level>
+        <licensable>true</licensable>
+        <license_model>none</license_model>
+        <logo/>
+        <menu display_value="Preventative Maintenance">076b2a1f0f38a300257985ace1050ec4</menu>
+        <name>Preventative Maintenance</name>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_247336_preventat</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description/>
+        <source>x_247336_preventat</source>
+        <store_correlation_id/>
+        <store_url/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-02 16:12:27</sys_created_on>
+        <sys_id>7e6be6d30f34a300257985ace1050e1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-02 16:12:27</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <user_role display_value="preventative.maintenance.user" name="preventative.maintenance.user">8b6b2a1f0f38a300257985ace1050ec7</user_role>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+</record_update>

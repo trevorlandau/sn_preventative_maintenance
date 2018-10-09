@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="pmt_task_type" table="x_247336_preventat_preventative_maintenance_tasks" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>pmt_task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Information Security</label>
+            <language>en</language>
+            <name>x_247336_preventat_preventative_maintenance_tasks</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 02:06:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c86366890f096700257985ace1050e17</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 02:06:39</sys_updated_on>
+            <value>Information Security</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>pmt_task_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Operations</label>
+            <language>en</language>
+            <name>x_247336_preventat_preventative_maintenance_tasks</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 02:06:39</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c86366890f096700257985ace1050e19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 02:06:39</sys_updated_on>
+            <value>Operations</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>pmt_task_type</element>
+            <name>x_247336_preventat_preventative_maintenance_tasks</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-10-08 02:06:39</sys_created_on>
+            <sys_id>846366890f096700257985ace1050e19</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>pmt_task_type</sys_name>
+            <sys_package display_value="Preventative Maintenance" source="x_247336_preventat">7e6be6d30f34a300257985ace1050e1d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Preventative Maintenance">7e6be6d30f34a300257985ace1050e1d</sys_scope>
+            <sys_update_name>sys_choice_x_247336_preventat_preventative_maintenance_tasks_pmt_task_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-10-08 02:06:39</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

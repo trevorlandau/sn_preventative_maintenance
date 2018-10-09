@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>sysauto</basic_apply_to>
+        <basic_query_from>x_247336_preventat_preventative_maintenance_tasks</basic_query_from>
+        <insert_callback/>
+        <name>Allow Scheduling</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+
+})(current, parent);]]></query_with>
+        <reference_field>assigned_to</reference_field>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-10-08 21:13:27</sys_created_on>
+        <sys_id>6939ae590f012300257985ace1050eff</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Allow Scheduling</sys_name>
+        <sys_package display_value="Preventative Maintenance" source="x_247336_preventat">7e6be6d30f34a300257985ace1050e1d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Preventative Maintenance">7e6be6d30f34a300257985ace1050e1d</sys_scope>
+        <sys_update_name>sys_relationship_6939ae590f012300257985ace1050eff</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-10-08 21:13:27</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=6939ae590f012300257985ace1050eff"/>
+</record_update>
